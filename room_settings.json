@@ -1,0 +1,10 @@
+{
+    "join_msg": "",
+    "leave_msg": "",
+    "vip_join_msg": "",
+    "vip_leave_msg": "",
+    "mod_join_msg": "",
+    "mod_leave_msg": "",
+    "loop_messages": [],
+    "invite_msg": ""
+}

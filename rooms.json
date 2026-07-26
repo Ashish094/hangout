@@ -1,0 +1,13 @@
+{
+    "rooms": {
+        "main": "https://high.rs/room/64a99bccb9395d787579b922",
+        "lobby": "https://high.rs/room/64a99bccb9395d787579b922",
+        "chillzone": "https://high.rs/world?id=6894bd39e3e4a405517cb530&ownedRoomId=653770335bd42f5dd14982e2&invite_id=6a3da3cd58f3ffb1576a2bcb",
+        "candysroom": "https://high.rs/world?id=6894bd39e3e4a405517cb530&ownedRoomId=6a3cc0e001a85b03ad03db5b&invite_id=6a3e1839c2d03776b773ad5a",
+        "denzisroom": "https://high.rs/world?id=6894bd39e3e4a405517cb530&ownedRoomId=62ebb740b664cbf2f5c9a163&invite_id=6a3e1a2573a1c8cb6d03bb9d",
+        "pinkukaghar": "https://high.rs/world?id=6894bd39e3e4a405517cb530&ownedRoomId=6750735dab8ea6bd09e930b4&invite_id=6a3e26ef298bc4714a1cc36c",
+        "cocovilla": "https://high.rs/world?id=6894bd39e3e4a405517cb530&ownedRoomId=6a31468d1480e49077489b45&invite_id=6a3e410373a1c8cb6d040393",
+        "highrise": "cafe",
+        "tanyakaroom": "https://high.rs/world?id=6894bd39e3e4a405517cb530&ownedRoomId=689379dda548bc0b2f92c952&invite_id=6a440084c4a3ef66a8c4e141"
+    }
+}

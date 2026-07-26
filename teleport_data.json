@@ -1,0 +1,19 @@
+{
+    "teleports": {
+        "table": {
+            "x": 14.5,
+            "y": 0.600006103515625,
+            "z": 6.5,
+            "facing": "FrontRight",
+            "author_id": "66cc440ab111413e0e486332",
+            "role": "manager"
+        },
+        "ground": {
+            "x": 13.494253158569,
+            "y": 0.25,
+            "z": 12.491816520691,
+            "facing": "BackLeft",
+            "role": "manager"
+        }
+    }
+}

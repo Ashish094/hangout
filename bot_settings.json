@@ -1,0 +1,426 @@
+{
+    "bot_position": {
+        "x": 1.5,
+        "y": 0.5,
+        "z": 2.0099999904633,
+        "facing": "FrontRight"
+    },
+    "saved_fits": {
+        "tobi": [
+            {
+                "type": "clothing",
+                "amount": 1,
+                "id": "body-flesh",
+                "account_bound": false,
+                "active_palette": 56
+            },
+            {
+                "type": "clothing",
+                "amount": 1,
+                "id": "shoes-n_items2021blackkicks",
+                "account_bound": false,
+                "active_palette": -1
+            },
+            {
+                "type": "clothing",
+                "amount": 1,
+                "id": "shirt-n_mermaidcoreudcskypass2023hritemssaltytshirt",
+                "account_bound": false,
+                "active_palette": -1
+            },
+            {
+                "type": "clothing",
+                "amount": 1,
+                "id": "pants-n_room32019longshortswithsocksblack",
+                "account_bound": false,
+                "active_palette": -1
+            },
+            {
+                "type": "clothing",
+                "amount": 1,
+                "id": "hat-n_aprilfoolsinvisible2020hat",
+                "account_bound": false,
+                "active_palette": -1
+            },
+            {
+                "type": "clothing",
+                "amount": 1,
+                "id": "hair_back-n_malenew09",
+                "account_bound": false,
+                "active_palette": 36
+            },
+            {
+                "type": "clothing",
+                "amount": 1,
+                "id": "hair_front-n_aprilfoolsinvisible2020hair",
+                "account_bound": false,
+                "active_palette": 36
+            },
+            {
+                "type": "clothing",
+                "amount": 1,
+                "id": "mouth-n_2016dessertgingerbreadmouth",
+                "account_bound": false,
+                "active_palette": -1
+            },
+            {
+                "type": "clothing",
+                "amount": 1,
+                "id": "nose-n_aprilfoolsinvisible2020nose",
+                "account_bound": false,
+                "active_palette": -1
+            },
+            {
+                "type": "clothing",
+                "amount": 1,
+                "id": "eye-anime_06",
+                "account_bound": false,
+                "active_palette": -1
+            }
+        ],
+        "miku": [
+            {
+                "type": "clothing",
+                "amount": 1,
+                "id": "body-flesh",
+                "account_bound": false,
+                "active_palette": 26
+            },
+            {
+                "type": "clothing",
+                "amount": 1,
+                "id": "mouth-vip_n_02",
+                "account_bound": false,
+                "active_palette": 40
+            },
+            {
+                "type": "clothing",
+                "amount": 1,
+                "id": "eyebrow-n_08",
+                "account_bound": false,
+                "active_palette": 1
+            },
+            {
+                "type": "clothing",
+                "amount": 1,
+                "id": "eye-anime_05",
+                "account_bound": false,
+                "active_palette": 7
+            },
+            {
+                "type": "clothing",
+                "amount": 1,
+                "id": "handbag-n_room22019banana",
+                "account_bound": false,
+                "active_palette": 0
+            },
+            {
+                "type": "clothing",
+                "amount": 1,
+                "id": "hat-n_gluttonygrab2020pizzarat",
+                "account_bound": false,
+                "active_palette": 0
+            },
+            {
+                "type": "clothing",
+                "amount": 1,
+                "id": "tattoo-n_authenticallyyouudc2024spookyimpcurvesnrolls",
+                "account_bound": false,
+                "active_palette": 0
+            },
+            {
+                "type": "clothing",
+                "amount": 1,
+                "id": "shirt-n_fathersday2018dadbod",
+                "account_bound": false,
+                "active_palette": 0
+            },
+            {
+                "type": "clothing",
+                "amount": 1,
+                "id": "pants-n_videorewards2021whitedolphinshorts",
+                "account_bound": false,
+                "active_palette": 0
+            },
+            {
+                "type": "clothing",
+                "amount": 1,
+                "id": "hair_front-n_aprilfoolsinvisible2020hair",
+                "account_bound": false,
+                "active_palette": 79
+            },
+            {
+                "type": "clothing",
+                "amount": 1,
+                "id": "hair_back-n_basic2018buzzcut",
+                "account_bound": false,
+                "active_palette": 79
+            },
+            {
+                "type": "clothing",
+                "amount": 1,
+                "id": "sock-n_augustskypassshoeriseudc2023feetwtoes",
+                "account_bound": false,
+                "active_palette": 0
+            },
+            {
+                "type": "clothing",
+                "amount": 1,
+                "id": "nose-n_basic2018newnose09",
+                "account_bound": false,
+                "active_palette": 0
+            }
+        ],
+        "outfit2": [
+            {
+                "type": "clothing",
+                "amount": 1,
+                "id": "body-flesh",
+                "account_bound": false,
+                "active_palette": 2
+            },
+            {
+                "type": "clothing",
+                "amount": 1,
+                "id": "eye-n_basic2018zanyeyes",
+                "account_bound": false,
+                "active_palette": 7
+            },
+            {
+                "type": "clothing",
+                "amount": 1,
+                "id": "shirt-n_aquamarinedailyreward2020sweater",
+                "account_bound": false,
+                "active_palette": -1
+            },
+            {
+                "type": "clothing",
+                "amount": 1,
+                "id": "pants-n_virgo2019virgopants",
+                "account_bound": false,
+                "active_palette": -1
+            },
+            {
+                "type": "clothing",
+                "amount": 1,
+                "id": "shoes-n_sapphiredailies2020sapphiresneaks",
+                "account_bound": false,
+                "active_palette": -1
+            },
+            {
+                "type": "clothing",
+                "amount": 1,
+                "id": "nose-n_octhrsupport2024blushednose",
+                "account_bound": false,
+                "active_palette": -1
+            },
+            {
+                "type": "clothing",
+                "amount": 1,
+                "id": "hair_back-m_14",
+                "account_bound": false,
+                "active_palette": 39
+            },
+            {
+                "type": "clothing",
+                "amount": 1,
+                "id": "hair_front-m_14",
+                "account_bound": false,
+                "active_palette": 39
+            },
+            {
+                "type": "clothing",
+                "amount": 1,
+                "id": "eyebrow-n_10",
+                "account_bound": false,
+                "active_palette": -1
+            },
+            {
+                "type": "clothing",
+                "amount": 1,
+                "id": "glasses-n_registrationavatars2023billieglasses",
+                "account_bound": false,
+                "active_palette": -1
+            },
+            {
+                "type": "clothing",
+                "amount": 1,
+                "id": "mouth-n_aprilfoolsinvisible2020mouth",
+                "account_bound": false,
+                "active_palette": -1
+            }
+        ],
+        "pookiefit": [
+            {
+                "type": "clothing",
+                "amount": 1,
+                "id": "body-flesh",
+                "account_bound": false,
+                "active_palette": 0
+            },
+            {
+                "type": "clothing",
+                "amount": 1,
+                "id": "hair_front-n_octhrsupport2024halfgrabshort",
+                "account_bound": false,
+                "active_palette": 2
+            },
+            {
+                "type": "clothing",
+                "amount": 1,
+                "id": "hair_back-n_doodlekitchen2025valentinehair3",
+                "account_bound": false,
+                "active_palette": 2
+            },
+            {
+                "type": "clothing",
+                "amount": 1,
+                "id": "eye-n_octhrsupport2024almond",
+                "account_bound": false,
+                "active_palette": -1
+            },
+            {
+                "type": "clothing",
+                "amount": 1,
+                "id": "mouth-n_octhrsupport2024sweetlips",
+                "account_bound": false,
+                "active_palette": 1
+            },
+            {
+                "type": "clothing",
+                "amount": 1,
+                "id": "nose-n_octhrsupport2024blushednose",
+                "account_bound": false,
+                "active_palette": -1
+            },
+            {
+                "type": "clothing",
+                "amount": 1,
+                "id": "bag-n_octhrsupport2024whiteheartbag",
+                "account_bound": false,
+                "active_palette": -1
+            },
+            {
+                "type": "clothing",
+                "amount": 1,
+                "id": "hat-n_octhrsupport2024pinkcap",
+                "account_bound": false,
+                "active_palette": -1
+            },
+            {
+                "type": "clothing",
+                "amount": 1,
+                "id": "pants-n_junepicnicskypassudc2023picnicshorts",
+                "account_bound": false,
+                "active_palette": -1
+            },
+            {
+                "type": "clothing",
+                "amount": 1,
+                "id": "shirt-n_octhrsupport2024pinkshirtnskirt",
+                "account_bound": false,
+                "active_palette": -1
+            },
+            {
+                "type": "clothing",
+                "amount": 1,
+                "id": "shoes-n_octhrsupport2024pinkplatformwhitepantys",
+                "account_bound": false,
+                "active_palette": -1
+            },
+            {
+                "type": "clothing",
+                "amount": 1,
+                "id": "eyebrow-n_21",
+                "account_bound": false,
+                "active_palette": -1
+            }
+        ],
+        "miku2": [
+            {
+                "type": "clothing",
+                "amount": 1,
+                "id": "body-flesh",
+                "account_bound": false,
+                "active_palette": 1
+            },
+            {
+                "type": "clothing",
+                "amount": 1,
+                "id": "hair_front-n_casualteenskypass2021shortcurls",
+                "account_bound": false,
+                "active_palette": 0
+            },
+            {
+                "type": "clothing",
+                "amount": 1,
+                "id": "hair_back-n_casualteenskypass2021shortcurls",
+                "account_bound": false,
+                "active_palette": 0
+            },
+            {
+                "type": "clothing",
+                "amount": 1,
+                "id": "shirt-n_arcticfriendsskypass2022owl",
+                "account_bound": false,
+                "active_palette": 0
+            },
+            {
+                "type": "clothing",
+                "amount": 1,
+                "id": "eyebrow-n_08",
+                "account_bound": false,
+                "active_palette": 1
+            },
+            {
+                "type": "clothing",
+                "amount": 1,
+                "id": "eye-m_12b",
+                "account_bound": false,
+                "active_palette": 7
+            },
+            {
+                "type": "clothing",
+                "amount": 1,
+                "id": "mouth-n_aprilfoolsinvisible2020mouth",
+                "account_bound": false,
+                "active_palette": -1
+            },
+            {
+                "type": "clothing",
+                "amount": 1,
+                "id": "nose-n_03_b",
+                "account_bound": false,
+                "active_palette": 0
+            },
+            {
+                "type": "clothing",
+                "amount": 1,
+                "id": "pants-n_gluttonygrab2020sweatpants",
+                "account_bound": false,
+                "active_palette": 0
+            },
+            {
+                "type": "clothing",
+                "amount": 1,
+                "id": "shoes-n_whitedans",
+                "account_bound": false,
+                "active_palette": 0
+            },
+            {
+                "type": "clothing",
+                "amount": 1,
+                "id": "hat-n_earthday2025hat",
+                "account_bound": false,
+                "active_palette": -1
+            },
+            {
+                "type": "clothing",
+                "amount": 1,
+                "id": "bag-n_mayflowersudcskypass2023goombitulipgoosetotebag",
+                "account_bound": false,
+                "active_palette": -1
+            }
+        ]
+    }
+}
